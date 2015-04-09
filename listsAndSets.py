@@ -17,8 +17,8 @@ sentence = sentence.translate(noPunctuation)
 # # remove the punctuation: "translate" function for versions < 3
 # sentence = sentence.translate(none, ";.")
 
-# split to a list on the space character
-wordlist = sentence.split(" ")
+# split to a list - no arguments will split on whitespace
+wordlist = sentence.split()
 
 # convert to set of unique words
 wordset = set(wordlist)
