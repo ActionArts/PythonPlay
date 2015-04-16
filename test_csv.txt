@@ -1,0 +1,6 @@
+firstName,lastName,age,profession
+Michael,Jordan,52,Basketball Player
+Kirsten,Bell,39,Actress
+Morrissey,,60,Musician
+Alex,Ramsdell,,Programmer
+Joe,Shmoe,Plumber,22
